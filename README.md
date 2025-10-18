@@ -1,5 +1,7 @@
 # Ticketing System Automation
 
+still ongoing
+
 ## Project Description
 
 This project is a **Playwright-based automation script** designed to interact with a web-based ticketing system. It automates the workflow of searching for an account, selecting options, and initiating ticket creation.  
@@ -33,3 +35,4 @@ The browser remains open at the end for manual inspection or additional interact
 
 ```bash
 npm install playwright dotenv
+
